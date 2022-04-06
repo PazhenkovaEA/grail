@@ -4,7 +4,7 @@ Version: 0.0.0.9000
 Authors@R: c(
     person("Frederic", "Boyer", role = c("aut", "cre")),
     person("Sylvain", "Moinard", role = "aut"),
-    person("Elena", "Pazhenkova", role = "cre")
+    person("Elena", "Pazhenkova", role = "cre"))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
