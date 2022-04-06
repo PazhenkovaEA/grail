@@ -2,9 +2,7 @@ Package: grail
 Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R:
-    person("Frederic", "Boyer", ,role = c("aut"))), 
-    person("Sylvain", "Moinard", ,role = c("aut"))),
-    person("Elena", "Pazhenkova", ,role = c("cre")))
+    person("Frederic", "Boyer", ,role = c("aut")))
 Description: What the package does (one paragraph).
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
